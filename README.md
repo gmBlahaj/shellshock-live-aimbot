@@ -55,8 +55,9 @@ python shellshock-cli.py
 6. Click Fire
 
 ## Notes
-- This script is not a 100% hit guarantee, there are certain weapons like "Glock" or "Ring" that have different shooting mechanics
+- This script is not a 100% hit guarantee, there are certain weapons like "Glock" or "Ring" that have different shooting mechanics (Will be worked on)
 - It also does not take into account obstacles like portals, black holes or barriers
+- High-Shot seems to be off by 1-2% due to unknown circumstances
 - A Windows Version will maybe be released in the future
 
 ## Credits
