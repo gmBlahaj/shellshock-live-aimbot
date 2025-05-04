@@ -54,8 +54,13 @@ python shellshock-cli.py
 5. The Application will automatically adjust the angle
 6. Click Fire
 
+
+## Tips:
+Some tips to better your chances of hitting:
+- Ensure you are on a flat surface (if not possible, try High Shot for better chances)
+- Enemies in Holes will be pretty much only be able to be targeted with the High Shot
 ## Notes
-- This script is not a 100% hit guarantee, there are certain weapons like "Glock" or "Ring" that have different shooting mechanics (Will be worked on)
+- This script is not a 100% hit guarantee, there are certain weapons like "Glock" or "Ring" that have different shooting mechanics (Will be worked on), or other conditions like enemy positioning
 - It also does not take into account obstacles like portals, black holes or barriers
 - High-Shot seems to be off by 1-2% due to unknown circumstances
 - A Windows Version will maybe be released in the future
