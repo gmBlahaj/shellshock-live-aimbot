@@ -56,11 +56,23 @@ python shellshock-cli.py
 
 ## Notes
 - This script is not a 100% hit guarantee, there are certain weapons like "Glock" or "Ring" that have different shooting mechanics
+- It also does not take into account obstacles like portals, black holes or barriers
 - A Windows Version will maybe be released in the future
 
 ## Credits
-This project is based on the original work by [HenryDatei in ShellShockLiveAimbot](https://github.com/henrydatei/ShellShockLiveAimbot).
+This project is based on the original work by [HenryDatei with ShellShockLiveAimbot](https://github.com/henrydatei/ShellShockLiveAimbot).
 
 ## Disclaimer
 This tool is intended for educational purposes only. Use at your own discretion in accordance with Shellshock Live's terms of service.
+
+## Screenshots
+### GUI:
+![GUI](pictures/gui.png "gui")
+### CLI:
+![CLI](pictures/cli.png "cli")
+### Footage:
+![FOOTAGE](pictures/footage.gif "cli")
+
+
+
 
