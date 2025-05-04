@@ -5,7 +5,7 @@ A Python-based aiming assistant for Shellshock Live that calculates optimal shot
 - Calculates both normal and high-arcing shot trajectories
 - Accounts for wind conditions
 - Simple GTK-based GUI or CLI
-- Linux-Only (for now)
+- Linux-Only (except if you manually install GTK which i wont help you with!)
 
 
 ## Requirements
